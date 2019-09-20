@@ -1,2 +1,4 @@
 This is a file of text
 Now it is modify in master
+This is a file of text.
+Now it is modify
